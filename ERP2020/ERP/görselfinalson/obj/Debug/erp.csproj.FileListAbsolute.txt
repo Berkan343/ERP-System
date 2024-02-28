@@ -1,0 +1,54 @@
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\bin\Debug\görselfinalson.exe.config
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\bin\Debug\görselfinalson.exe
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\bin\Debug\görselfinalson.pdb
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.csprojAssemblyReference.cache
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.giriş.resources
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.kullanıcıayarları.resources
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.malzemeayar.resources
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.malzemeler.resources
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.Properties.Resources.resources
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.csproj.GenerateResource.cache
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.exe
+C:\Users\Berkan\source\repos\görselfinalson\görselfinalson\obj\Debug\görselfinalson.pdb
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\bin\Debug\görselfinalson.exe.config
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\bin\Debug\görselfinalson.exe
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\bin\Debug\görselfinalson.pdb
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.csprojAssemblyReference.cache
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.giriş.resources
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.kullanıcıayarları.resources
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.Properties.Resources.resources
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.csproj.GenerateResource.cache
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.exe
+C:\Users\Berkan\Desktop\görselfinalson - Kopya\görselfinalson\obj\Debug\görselfinalson.pdb
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.exe.config
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.exe
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.pdb
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.csprojAssemblyReference.cache
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.giriş.resources
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.kullanıcıayarları.resources
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.Properties.Resources.resources
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.csproj.GenerateResource.cache
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.exe
+C:\Users\Berkan\Desktop\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.pdb
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.exe.config
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.exe
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\bin\Debug\görselfinalson.pdb
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.csproj.AssemblyReference.cache
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.giriş.resources
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.kullanıcıayarları.resources
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.Properties.Resources.resources
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.csproj.GenerateResource.cache
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.csproj.CoreCompileInputs.cache
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.exe
+C:\Users\sukut\Desktop\ERP2020\GÖRSEL FİNAL\görselfinalson\obj\Debug\görselfinalson.pdb
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\bin\Debug\görselfinalson.exe.config
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\bin\Debug\görselfinalson.exe
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\bin\Debug\görselfinalson.pdb
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\erp.csproj.AssemblyReference.cache
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\erp.giriş.resources
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\erp.kullanıcıayarları.resources
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\görselfinalson.Properties.Resources.resources
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\erp.csproj.GenerateResource.cache
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\erp.csproj.CoreCompileInputs.cache
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\görselfinalson.exe
+C:\Users\sukut\Desktop\ERP2020\ERP\görselfinalson\obj\Debug\görselfinalson.pdb
